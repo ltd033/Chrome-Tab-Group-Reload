@@ -1,0 +1,17 @@
+{
+    "name": "Reload Current Tab Group",
+    "description": "Reloads the current tab group using a right click context menu, made with ChatGPT 3.5",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": [
+        "contextMenus",
+        "tabs",
+        "contextMenus",
+        "tabGroups",
+        "windows",
+        "notifications"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+  }
