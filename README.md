@@ -7,4 +7,5 @@ https://chrome.google.com/webstore/detail/reload-current-tab-group/lmlemgodfkdlh
 Alternate install:
 To install save and put manifest and background files in the same folder, go to extensions on chrome browser, enable developer mode in the top right corner, click load unpacked, then open the folder containing the manifest and background files.
 
+Has reached over 100 users with minimal advertising.
 ![image](https://github.com/ltd033/Chrome-Tab-Group-Reload/blob/main/users%20map.jpg)
